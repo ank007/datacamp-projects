@@ -1,3 +1,3 @@
 # datacamp-projects
 
-Adding the jupyter notebooks I have completed in my questto learn Python.
+Adding the jupyter notebooks I have completed in my quest to learn data science.
